@@ -1,0 +1,38 @@
+﻿Шаблон
+C:\Users\Admin\Desktop\Импорт\Шаблон для каталога.xlsx
+U1003
+C:\Users\Admin\Desktop\Договоры\U2\U1003 приложение Ефимов.xlsx
+U1005
+C:\Users\Admin\Desktop\Договоры\U2\U1005 приложение Гребинник.xlsx
+U1010
+C:\Users\Admin\Desktop\Договоры\U2\U1010 приложение.xlsx
+U1020
+C:\Users\Admin\Desktop\Договоры\U2\U1020 приложение.xlsx
+U1021
+C:\Users\Admin\Desktop\Договоры\U2\U1021 приложение Неупокоев.xlsx
+U1025
+C:\Users\Admin\Desktop\Договоры\U2\U1025.xlsx
+U1026
+C:\Users\Admin\Desktop\Договоры\U2\U1026.2 приложение Фролов АА.xlsx
+U1027
+C:\Users\Admin\Desktop\Договоры\U2\U1027 приложение Шерстяных ОЮ.xlsx
+U1029
+C:\Users\Admin\Desktop\Договоры\U2\U1029 приложение Стариков.xlsx
+U1030
+C:\Users\Admin\Desktop\Договоры\U2\U1030 приложение Зиновьев.xlsx
+U1045
+C:\Users\Admin\Desktop\Договоры\U2\U1045 приложение Бреев.xlsx
+U1047
+C:\Users\Admin\Desktop\Договоры\U2\U1047 приложение Черненко.xlsx
+U1048
+C:\Users\Admin\Desktop\Договоры\U2\U1048 приложение Корсаков.xlsx
+U1051
+C:\Users\Admin\Desktop\Договоры\U2\U1051 приложение  Шинкаркин.xlsx
+U1059 
+C:\Users\Admin\Desktop\Договоры\U2\U1059 приложение Комовский.xlsx
+U1126
+C:\Users\Admin\Desktop\Договоры\U2\U1126 Фролова Елена.xlsx
+U2_F
+C:\Users\Admin\Desktop\Договоры\U2\U2_F Фируза Шафиева.xlsx
+U0001
+C:\Users\Admin\Desktop\qweasd.xlsx

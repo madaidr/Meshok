@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\bin\Debug\Meshok02.exe.config
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\bin\Debug\Meshok02.exe
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\bin\Debug\Meshok02.pdb
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\bin\Debug\WebDriver.Support.xml
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok.Form1.resources
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok.Form2.resources
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok.Form3.resources
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok02.Properties.Resources.resources
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok.csproj.CopyComplete
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok02.exe
+C:\Users\Admin\Desktop\Проекты\Meshok\Meshok\obj\Debug\Meshok02.pdb
